@@ -46,7 +46,7 @@ fi
 ## Clone the configuration repository and run Ansible
 ##
 cd /var/tmp
-git clone -b $CONFIG_VER https://github.com/edx/configuration
+git clone -b $CONFIG_VER https://github.com/TabEd/configuration
 
 ##
 ## Install the ansible requirements
