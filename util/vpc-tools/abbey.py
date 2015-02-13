@@ -535,7 +535,7 @@ def create_ami(instance_id, name, description):
                 time.sleep(AWS_API_WAIT_TIME)
                 img.add_tag("play", args.play)
                 time.sleep(AWS_API_WAIT_TIME)
-                conf_tag = "{} {}".format("http://github.com/edx/configuration", args.configuration_version)
+                conf_tag = "{} {}".format("http://github.com/TabEd/configuration", args.configuration_version)
                 img.add_tag("version:configuration", conf_tag)
                 time.sleep(AWS_API_WAIT_TIME)
                 conf_secure_tag = "{} {}".format(args.configuration_secure_repo, args.configuration_secure_version)

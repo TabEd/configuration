@@ -2,7 +2,7 @@
 #
 # edX Configuration
 #
-# code style: https://github.com/edx/configuration/wiki/Ansible-Coding-Conventions
+# code style: https://github.com/TabEd/configuration/wiki/Ansible-Coding-Conventions
 
 harprofiler_role_name: harprofiler
 

@@ -35,6 +35,6 @@ configuration tools, we will be migrating features to this project
 over time, so expect frequent changes.
 
 
-For more information including installation instruction please see the [Configuration Wiki](https://github.com/edx/configuration/wiki).
+For more information including installation instruction please see the [Configuration Wiki](https://github.com/TabEd/configuration/wiki).
 
-For info on any large recent changes please see the [change log](https://github.com/edx/configuration/blob/master/CHANGELOG.md).
+For info on any large recent changes please see the [change log](https://github.com/TabEd/configuration/blob/master/CHANGELOG.md).
